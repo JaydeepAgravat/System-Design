@@ -24,9 +24,7 @@ Scalability is a key aspect of system design. It refers to a system's ability to
 
 - **Vertical Scalability**: This involves adding more resources (e.g., CPU, RAM, or storage) to a single machine. Vertical scalability is beneficial when a single machine needs to handle increased computational demands, such as complex machine learning models.
 
-### Example
-
-## **Example 1: Netflix - Content Recommendation System**
+## Netflix - Content Recommendation System**
 
 **Problem**: Netflix faces the challenge of recommending personalized content to millions of users. The system design challenge is to efficiently process user data, analyze viewing habits, and make real-time recommendations.
 
@@ -37,7 +35,7 @@ Scalability is a key aspect of system design. It refers to a system's ability to
 - **Machine Learning Models**: Vertical scalability is important here. Netflix may use powerful GPUs or TPUs to train and deploy complex machine learning models for recommendation.
 - **Caching**: To improve performance, they use caching mechanisms to store frequently accessed recommendations.
 
-### **Example 2: Flipkart - Inventory Management**
+## Flipkart - Inventory Management**
 
 **Problem**: Flipkart deals with a vast inventory of products from various sellers. They need to manage this inventory efficiently while ensuring real-time updates and accurate availability information.
 
@@ -47,5 +45,3 @@ Scalability is a key aspect of system design. It refers to a system's ability to
 - **Data Storage**: Flipkart's inventory system relies on distributed databases and data sharding to store product information efficiently.
 - **Real-time Updates**: To maintain real-time inventory information, they implement a publish-subscribe system where changes in product availability are instantly broadcasted to all relevant systems.
 - **Vertical Scalability**: For intensive search and recommendation algorithms, Flipkart may employ vertical scalability by using high-performance hardware and efficient indexing techniques.
-
-In both examples, system design plays a crucial role in addressing the challenges of scalability, efficiency, and reliability that data scientists and machine learning engineers encounter. Horizontal and vertical scalability choices are made based on the specific requirements of the systems, whether it's handling a large user base in the case of Netflix or managing a vast inventory in the case of Flipkart.
