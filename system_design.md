@@ -24,7 +24,7 @@ Scalability is a key aspect of system design. It refers to a system's ability to
 
 - **Vertical Scalability**: This involves adding more resources (e.g., CPU, RAM, or storage) to a single machine. Vertical scalability is beneficial when a single machine needs to handle increased computational demands, such as complex machine learning models.
 
-## Netflix - Content Recommendation System**
+## **Netflix - Content Recommendation System**
 
 **Problem**: Netflix faces the challenge of recommending personalized content to millions of users. The system design challenge is to efficiently process user data, analyze viewing habits, and make real-time recommendations.
 
@@ -35,7 +35,7 @@ Scalability is a key aspect of system design. It refers to a system's ability to
 - **Machine Learning Models**: Vertical scalability is important here. Netflix may use powerful GPUs or TPUs to train and deploy complex machine learning models for recommendation.
 - **Caching**: To improve performance, they use caching mechanisms to store frequently accessed recommendations.
 
-## Flipkart - Inventory Management**
+## **Flipkart - Inventory Management**
 
 **Problem**: Flipkart deals with a vast inventory of products from various sellers. They need to manage this inventory efficiently while ensuring real-time updates and accurate availability information.
 
