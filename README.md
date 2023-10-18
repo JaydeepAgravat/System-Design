@@ -7,4 +7,7 @@
 3. Scalability: Horizontal vs. Vertical
 4. Netflix - Content Recommendation System
 5. Flipkart - Inventory Management
-
+6. Distributed caches
+7. Maximizing Amazon's Machine Learning Capabilities with Distributed Caches
+8. Sharding
+9. Evolving Facebook's Data Infrastructure: The Power of Sharding
