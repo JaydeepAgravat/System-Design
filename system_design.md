@@ -2,7 +2,9 @@
 
 ## 1. **What is System Design?**
 
-System design is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specified requirements. It is a critical phase in software engineering and data science, where the high-level structure of a system is created to ensure it functions efficiently, reliably, and securely. System design involves making key decisions about how different parts of a system will work together to achieve a particular goal.
+- System design is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specified requirements.
+- It is a critical phase in software engineering and data science, where the high-level structure of a system is created to ensure it functions efficiently, reliably, and securely.
+- System design involves making key decisions about how different parts of a system will work together to achieve a particular goal.
 
 ## 2. **Why Study System Design as a Data Scientist?**
 
